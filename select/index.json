@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "ゴーストルール",
+  "base_artist": "あらき",
+  "createdAt": "2026-02-21T10:41:19.622174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/01_ゴーストルール_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ghost Rule (English Cover)【JubyPhonic】ゴーストルール",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/02_Ghost_Rule_(English_Cover)【JubyPhonic】ゴーストルール_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "DECO*27 & 初音ミク",
+      "has_synced": true,
+      "path": "select/03_ゴーストルール_DECO_27_&_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/04_ゴーストルール_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゴーストルール (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/05_ゴーストルール_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/06_ゴーストルール_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "96猫",
+      "has_synced": true,
+      "path": "select/07_ゴーストルール_96猫.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "Kuroneko",
+      "has_synced": true,
+      "path": "select/08_ゴーストルール_Kuroneko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ゴーストルール - Ghost Rule (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/09_ゴーストルール_-_Ghost_Rule_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ゴーストルール - Ghost Rule (feat. 星乃一歌",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/10_ゴーストルール_-_Ghost_Rule_(feat._星乃一歌_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/11_ゴーストルール_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "Len X Araki",
+      "has_synced": false,
+      "path": "select/12_ゴーストルール_Len_X_Araki.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "Leo/need feat. 星乃一歌&初音ミク",
+      "has_synced": true,
+      "path": "select/13_ゴーストルール_Leo_need_feat._星乃一歌&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "JILUKA",
+      "has_synced": true,
+      "path": "select/14_ゴーストルール_JILUKA.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ゴーストルール (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo",
+      "has_synced": true,
+      "path": "select/15_ゴーストルール_(feat._星乃一歌&初音ミク)_Leo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ゴーストルール",
+      "artist": "deco27",
+      "has_synced": true,
+      "path": "select/16_ゴーストルール_deco27.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "DECO*27 - ゴーストルール feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/17_DECO_27_-_ゴーストルール_feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ゴーストルール (feat. 星乃一歌&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/18_ゴーストルール_(feat._星乃一歌&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゴーストルール",
+      "artist": "ARAKI",
+      "has_synced": false,
+      "path": "select/pl_01_ゴーストルール_ARAKI.txt"
+    }
+  ]
+}
